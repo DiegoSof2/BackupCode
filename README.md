@@ -8,7 +8,7 @@ Este script é projetado para fazer backup dos arquivos modificado a cada salvam
 
 2. **Configure o script**: Configure o script de acordo com suas necessidades, alterando o diretório de origem e destino conforme necessário.
 
-3. **Configure para ser executado automaticamente**: Configure-o para ser executado automaticamente ao salvar o arquivo com a extensão usando a extensão "Run on Save" do VSCode.
+3. **Configure para ser executado automaticamente**: Configure-o para ser executado automaticamente ao salvar o arquivo com a extensão usando a extensão ["Run on Save"](https://marketplace.visualstudio.com/items?itemName=emeraldwalk.RunOnSave) do VSCode.
 
 ## Configuração
 
